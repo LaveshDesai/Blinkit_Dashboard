@@ -22,8 +22,6 @@ The dashboard was built using the following tools and technologies:
 - 🔄 **Power Query** – Used for data transformation and cleansing.  
 - 📐 **DAX (Data Analysis Expressions)** – Applied to derive metrics like average delivery time, total revenue, etc.  
 - 🧩 **Data Modeling** – Relationships among tables like orders, products, and categories.  
-- 📁 **File Format** – `.pbit` (Power BI Template).
-
 ---
 
 ## 📚 Data Source
