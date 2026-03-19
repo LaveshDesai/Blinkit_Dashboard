@@ -1,7 +1,7 @@
 # 🛒 Blinkit Analytics Dashboard
 
 🚀 **Explore the Full Dashboard**  
-📄 [Click here to open the PDF Report »](./BlinkitDashboard.pdf)
+📄 [Click here to open the PDF Report »](./Blinkit_PowerBI.pdf)
 
 > A detailed and interactive Power BI dashboard offering insights into Blinkit's product categories, order trends, customer behavior, and delivery performance.
 
